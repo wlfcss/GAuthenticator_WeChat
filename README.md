@@ -1,3 +1,4 @@
+# 后续更新请前往：https://github.com/SCV1025/GAuthenticator_Remax
 # GAuthenticator_WeChat
 
 一个简单的谷歌Authenticator微信小程序记录器
